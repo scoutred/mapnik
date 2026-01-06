@@ -28,3 +28,5 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 # License
 
 Mapnik software is free and is released under the LGPL v2.1 ([GNU Lesser General Public License, version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)). Please see [COPYING](https://github.com/mapnik/mapnik/blob/master/COPYING) for more information.
+
+
