@@ -1,7 +1,7 @@
 FROM ubuntu:22.04
 
 ARG DEBIAN_FRONTEND=noninteractive
-ARG GIT_REF=123232ffde565af38afd06fe3e8edd9bfdce93bc
+ARG GIT_REF=d4c7a15bc235b986fa80255cae0df9784c8b78c6 # tag v4.1.4
 
 # We need a newer version of cmake and the build tools than ship with
 # Ubuntu. This repo has them.
